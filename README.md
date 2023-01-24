@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niklas</h1>
 <h3 align="center">A passionate full stack developer from Germany</h3>
 
-- 🔭 I’m currently working on **moviegeeks**
+- 🔭 I’m currently working on **psychotherapie.jetzt**
 
 - 🌱 I’m currently learning **Ruby on Rails, JavaScript**
 
